@@ -1,8 +1,3 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif" width="250"/>
-</div>
-
 <div align="center".
   <h1>
     Hey There
@@ -15,6 +10,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Xbn8ZbO95YeOJQtJz7/giphy.gif" width="450" height="600"/>
 </div>
+
+---
 
 ### :man_technologist: About Me :
 
