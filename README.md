@@ -5,7 +5,7 @@
 
 <div align="center".
   <h1>
-    hey there
+    Hey There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
   </h1>
 </div>
@@ -25,6 +25,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 <!--
 **srstafion/srstafion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
