@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/monday-computer-molehill-Xbn8ZbO95YeOJQtJz7" width="300" height="600"/>
+  <img src="https://media.giphy.com/media/Xbn8ZbO95YeOJQtJz7/giphy.gif" width="300" height="600"/>
 </div>
 
 ### :man_technologist: About Me :
